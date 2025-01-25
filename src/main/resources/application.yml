@@ -1,2 +1,7 @@
 server:
   port: 7777
+
+cfin:
+  webot:
+    owner: cfin
+    baseUrl: 127.0.0.1:5231
